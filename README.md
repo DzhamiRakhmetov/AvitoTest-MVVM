@@ -6,8 +6,11 @@
 стартовый экран отображает список товаров
 
 ![AppScreenshot1](https://github.com/DzhamiRakhmetov/AvitoTest-MVVM/blob/master/avito-1.png)
+
 По нажатию на элемент открывается детальная карточка товара
+
 ![AppScreenshot1](https://github.com/DzhamiRakhmetov/AvitoTest-MVVM/blob/master/avito-2.png)
+
 Реализована темная/светлая темы. За референс взят внешний вид приложения Авито
 
 #### Для реализации данного приложения использовались:
