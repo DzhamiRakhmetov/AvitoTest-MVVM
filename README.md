@@ -20,5 +20,5 @@
 - Отображение списка товаров: используется UICollectionView с отображением в 2 столбца
 - Сторонние библиотеки: Kingfisher
 
-####API
+#### API
 https://www.avito.st/s/interns-ios/main-page.json
