@@ -5,8 +5,9 @@
 Приложение состоит из двух экранов: 
 стартовый экран отображает список товаров
 
-
+![AppScreenshot1](https://github.com/DzhamiRakhmetov/AvitoTest-MVVM/blob/master/avito-1.png)
 По нажатию на элемент открывается детальная карточка товара
+![AppScreenshot1](https://github.com/DzhamiRakhmetov/AvitoTest-MVVM/blob/master/avito-2.png)
 Реализована темная/светлая темы. За референс взят внешний вид приложения Авито
 
 #### Для реализации данного приложения использовались:
@@ -16,3 +17,6 @@
 - Загрузка данных: Данные загружаются с использованием URLSession
 - Отображение списка товаров: используется UICollectionView с отображением в 2 столбца
 - Сторонние библиотеки: Kingfisher
+
+####API
+https://www.avito.st/s/interns-ios/main-page.json
