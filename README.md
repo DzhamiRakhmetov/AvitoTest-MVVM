@@ -11,7 +11,6 @@
 
 ![AppScreenshot1](https://github.com/DzhamiRakhmetov/AvitoTest-MVVM/blob/master/avito-2.png)
 
-Реализована темная/светлая темы. За референс взят внешний вид приложения Авито
 
 #### Для реализации данного приложения использовались:
 - Приложение написано на языке Swift
